@@ -15,4 +15,5 @@ int main(){
   (*S).roll = 12;
   (*S).grade = "A++";
   cout << S->name;
+  
 }
