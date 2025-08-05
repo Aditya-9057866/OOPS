@@ -44,3 +44,4 @@ int main(){
   S1.getroll();
   S1.getgrade();
 }
+// encapsulation
